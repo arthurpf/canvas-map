@@ -1,0 +1,2581 @@
+{
+  "id": "00003146",
+  "created": "2017-06-12T01:36:04.599Z",
+  "lines": [
+    {
+      "line": 1,
+      "seats": [
+        {
+          "id": "296200",
+          "line": 1,
+          "column": 2,
+          "label": "Q 1",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296201",
+          "line": 1,
+          "column": 3,
+          "label": "Q 2",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296202",
+          "line": 1,
+          "column": 4,
+          "label": "Q 3",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296203",
+          "line": 1,
+          "column": 5,
+          "label": "Q 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296204",
+          "line": 1,
+          "column": 15,
+          "label": "Q 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296205",
+          "line": 1,
+          "column": 16,
+          "label": "Q 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296206",
+          "line": 1,
+          "column": 17,
+          "label": "Q 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296207",
+          "line": 1,
+          "column": 18,
+          "label": "Q 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296208",
+          "line": 1,
+          "column": 19,
+          "label": "Q 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        }
+      ]
+    },
+    {
+      "line": 2,
+      "seats": [
+        {
+          "id": "296211",
+          "line": 2,
+          "column": 2,
+          "label": "P 1",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296212",
+          "line": 2,
+          "column": 3,
+          "label": "P 2",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296213",
+          "line": 2,
+          "column": 4,
+          "label": "P 3",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296214",
+          "line": 2,
+          "column": 5,
+          "label": "P 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296215",
+          "line": 2,
+          "column": 6,
+          "label": "P 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296216",
+          "line": 2,
+          "column": 7,
+          "label": "P 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296217",
+          "line": 2,
+          "column": 8,
+          "label": "P 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296218",
+          "line": 2,
+          "column": 9,
+          "label": "P 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296219",
+          "line": 2,
+          "column": 10,
+          "label": "P 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296220",
+          "line": 2,
+          "column": 11,
+          "label": "P 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296221",
+          "line": 2,
+          "column": 12,
+          "label": "P 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296222",
+          "line": 2,
+          "column": 13,
+          "label": "P 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296223",
+          "line": 2,
+          "column": 16,
+          "label": "P 13",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296224",
+          "line": 2,
+          "column": 17,
+          "label": "P 14",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296225",
+          "line": 2,
+          "column": 18,
+          "label": "P 15",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296226",
+          "line": 2,
+          "column": 19,
+          "label": "P 16",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        }
+      ]
+    },
+    {
+      "line": 3,
+      "seats": [
+        {
+          "id": "296229",
+          "line": 3,
+          "column": 2,
+          "label": "O 1",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296230",
+          "line": 3,
+          "column": 3,
+          "label": "O 2",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296231",
+          "line": 3,
+          "column": 4,
+          "label": "O 3",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296232",
+          "line": 3,
+          "column": 5,
+          "label": "O 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296233",
+          "line": 3,
+          "column": 6,
+          "label": "O 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296234",
+          "line": 3,
+          "column": 7,
+          "label": "O 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296235",
+          "line": 3,
+          "column": 8,
+          "label": "O 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296236",
+          "line": 3,
+          "column": 9,
+          "label": "O 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296237",
+          "line": 3,
+          "column": 10,
+          "label": "O 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296238",
+          "line": 3,
+          "column": 11,
+          "label": "O 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296239",
+          "line": 3,
+          "column": 12,
+          "label": "O 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296240",
+          "line": 3,
+          "column": 13,
+          "label": "O 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296241",
+          "line": 3,
+          "column": 16,
+          "label": "O 13",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296242",
+          "line": 3,
+          "column": 17,
+          "label": "O 14",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296243",
+          "line": 3,
+          "column": 18,
+          "label": "O 15",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296244",
+          "line": 3,
+          "column": 19,
+          "label": "O 16",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        }
+      ]
+    },
+    {
+      "line": 4,
+      "seats": [
+        {
+          "id": "296247",
+          "line": 4,
+          "column": 2,
+          "label": "N 1",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296248",
+          "line": 4,
+          "column": 3,
+          "label": "N 2",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296249",
+          "line": 4,
+          "column": 4,
+          "label": "N 3",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296250",
+          "line": 4,
+          "column": 5,
+          "label": "N 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296251",
+          "line": 4,
+          "column": 6,
+          "label": "N 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296252",
+          "line": 4,
+          "column": 7,
+          "label": "N 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296253",
+          "line": 4,
+          "column": 8,
+          "label": "N 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296254",
+          "line": 4,
+          "column": 9,
+          "label": "N 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296255",
+          "line": 4,
+          "column": 10,
+          "label": "N 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296256",
+          "line": 4,
+          "column": 11,
+          "label": "N 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296257",
+          "line": 4,
+          "column": 12,
+          "label": "N 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296258",
+          "line": 4,
+          "column": 13,
+          "label": "N 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296259",
+          "line": 4,
+          "column": 16,
+          "label": "N 13",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296260",
+          "line": 4,
+          "column": 17,
+          "label": "N 14",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296261",
+          "line": 4,
+          "column": 18,
+          "label": "N 15",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296262",
+          "line": 4,
+          "column": 19,
+          "label": "N 16",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        }
+      ]
+    },
+    {
+      "line": 5,
+      "seats": [
+        {
+          "id": "296265",
+          "line": 5,
+          "column": 2,
+          "label": "M 1",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296266",
+          "line": 5,
+          "column": 3,
+          "label": "M 2",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296267",
+          "line": 5,
+          "column": 4,
+          "label": "M 3",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296268",
+          "line": 5,
+          "column": 5,
+          "label": "M 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296269",
+          "line": 5,
+          "column": 6,
+          "label": "M 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296270",
+          "line": 5,
+          "column": 7,
+          "label": "M 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296271",
+          "line": 5,
+          "column": 8,
+          "label": "M 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296272",
+          "line": 5,
+          "column": 9,
+          "label": "M 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296273",
+          "line": 5,
+          "column": 10,
+          "label": "M 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296274",
+          "line": 5,
+          "column": 11,
+          "label": "M 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296275",
+          "line": 5,
+          "column": 12,
+          "label": "M 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296276",
+          "line": 5,
+          "column": 13,
+          "label": "M 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296277",
+          "line": 5,
+          "column": 16,
+          "label": "M 13",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296278",
+          "line": 5,
+          "column": 17,
+          "label": "M 14",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296279",
+          "line": 5,
+          "column": 18,
+          "label": "M 15",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296280",
+          "line": 5,
+          "column": 19,
+          "label": "M 16",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        }
+      ]
+    },
+    {
+      "line": 6,
+      "seats": [
+        {
+          "id": "296283",
+          "line": 6,
+          "column": 2,
+          "label": "L 1",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296284",
+          "line": 6,
+          "column": 3,
+          "label": "L 2",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296285",
+          "line": 6,
+          "column": 4,
+          "label": "L 3",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296286",
+          "line": 6,
+          "column": 5,
+          "label": "L 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296287",
+          "line": 6,
+          "column": 6,
+          "label": "L 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296288",
+          "line": 6,
+          "column": 7,
+          "label": "L 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296289",
+          "line": 6,
+          "column": 8,
+          "label": "L 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296290",
+          "line": 6,
+          "column": 9,
+          "label": "L 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296291",
+          "line": 6,
+          "column": 10,
+          "label": "L 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296292",
+          "line": 6,
+          "column": 11,
+          "label": "L 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296293",
+          "line": 6,
+          "column": 12,
+          "label": "L 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296294",
+          "line": 6,
+          "column": 13,
+          "label": "L 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296295",
+          "line": 6,
+          "column": 16,
+          "label": "L 13",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296296",
+          "line": 6,
+          "column": 17,
+          "label": "L 14",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296297",
+          "line": 6,
+          "column": 18,
+          "label": "L 15",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296298",
+          "line": 6,
+          "column": 19,
+          "label": "L 16",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        }
+      ]
+    },
+    {
+      "line": 7,
+      "seats": [
+        {
+          "id": "296301",
+          "line": 7,
+          "column": 2,
+          "label": "k 1",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296302",
+          "line": 7,
+          "column": 3,
+          "label": "k 2",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296303",
+          "line": 7,
+          "column": 4,
+          "label": "k 3",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296304",
+          "line": 7,
+          "column": 5,
+          "label": "k 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296305",
+          "line": 7,
+          "column": 6,
+          "label": "k 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296306",
+          "line": 7,
+          "column": 7,
+          "label": "k 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296307",
+          "line": 7,
+          "column": 8,
+          "label": "k 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296308",
+          "line": 7,
+          "column": 9,
+          "label": "k 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296309",
+          "line": 7,
+          "column": 10,
+          "label": "k 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296310",
+          "line": 7,
+          "column": 11,
+          "label": "k 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296311",
+          "line": 7,
+          "column": 12,
+          "label": "k 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296312",
+          "line": 7,
+          "column": 13,
+          "label": "k 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296313",
+          "line": 7,
+          "column": 16,
+          "label": "k 13",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296314",
+          "line": 7,
+          "column": 17,
+          "label": "k 14",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296315",
+          "line": 7,
+          "column": 18,
+          "label": "k 15",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296316",
+          "line": 7,
+          "column": 19,
+          "label": "k 16",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        }
+      ]
+    },
+    {
+      "line": 9,
+      "seats": [
+        {
+          "id": "296319",
+          "line": 9,
+          "column": 2,
+          "label": "J 1",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296320",
+          "line": 9,
+          "column": 3,
+          "label": "J 2",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296321",
+          "line": 9,
+          "column": 4,
+          "label": "J 3",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296322",
+          "line": 9,
+          "column": 5,
+          "label": "J 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296323",
+          "line": 9,
+          "column": 6,
+          "label": "J 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296324",
+          "line": 9,
+          "column": 7,
+          "label": "J 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296325",
+          "line": 9,
+          "column": 8,
+          "label": "J 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296326",
+          "line": 9,
+          "column": 9,
+          "label": "J 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296327",
+          "line": 9,
+          "column": 10,
+          "label": "J 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296328",
+          "line": 9,
+          "column": 11,
+          "label": "J 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296329",
+          "line": 9,
+          "column": 12,
+          "label": "J 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296330",
+          "line": 9,
+          "column": 13,
+          "label": "J 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296331",
+          "line": 9,
+          "column": 14,
+          "label": "J 13",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296332",
+          "line": 9,
+          "column": 15,
+          "label": "J 14",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296333",
+          "line": 9,
+          "column": 16,
+          "label": "J 15",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        }
+      ]
+    },
+    {
+      "line": 10,
+      "seats": [
+        {
+          "id": "296336",
+          "line": 10,
+          "column": 2,
+          "label": "I 1",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296337",
+          "line": 10,
+          "column": 3,
+          "label": "I 2",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296338",
+          "line": 10,
+          "column": 4,
+          "label": "I 3",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296339",
+          "line": 10,
+          "column": 5,
+          "label": "I 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296340",
+          "line": 10,
+          "column": 6,
+          "label": "I 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296341",
+          "line": 10,
+          "column": 7,
+          "label": "I 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296342",
+          "line": 10,
+          "column": 8,
+          "label": "I 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296343",
+          "line": 10,
+          "column": 9,
+          "label": "I 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296344",
+          "line": 10,
+          "column": 10,
+          "label": "I 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296345",
+          "line": 10,
+          "column": 11,
+          "label": "I 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296346",
+          "line": 10,
+          "column": 12,
+          "label": "I 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296347",
+          "line": 10,
+          "column": 13,
+          "label": "I 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296348",
+          "line": 10,
+          "column": 14,
+          "label": "I 13",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296349",
+          "line": 10,
+          "column": 15,
+          "label": "I 14",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296350",
+          "line": 10,
+          "column": 16,
+          "label": "I 15",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        }
+      ]
+    },
+    {
+      "line": 11,
+      "seats": [
+        {
+          "id": "296353",
+          "line": 11,
+          "column": 2,
+          "label": "H 1",
+          "type": "Obese",
+          "status": "Available",
+          "typeDescription": "Obeso"
+        },
+        {
+          "id": "296354",
+          "line": 11,
+          "column": 3,
+          "label": "H 2",
+          "type": "Obese",
+          "status": "Available",
+          "typeDescription": "Obeso"
+        },
+        {
+          "id": "296355",
+          "line": 11,
+          "column": 4,
+          "label": "H 3",
+          "type": "Companion",
+          "status": "Available",
+          "typeDescription": "Acompanhante"
+        },
+        {
+          "id": "296356",
+          "line": 11,
+          "column": 5,
+          "label": "H 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296357",
+          "line": 11,
+          "column": 6,
+          "label": "H 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296358",
+          "line": 11,
+          "column": 7,
+          "label": "H 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296359",
+          "line": 11,
+          "column": 8,
+          "label": "H 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296360",
+          "line": 11,
+          "column": 9,
+          "label": "H 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296361",
+          "line": 11,
+          "column": 10,
+          "label": "H 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296362",
+          "line": 11,
+          "column": 11,
+          "label": "H 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296363",
+          "line": 11,
+          "column": 12,
+          "label": "H 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296364",
+          "line": 11,
+          "column": 13,
+          "label": "H 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296365",
+          "line": 11,
+          "column": 14,
+          "label": "H 13",
+          "type": "Companion",
+          "status": "Available",
+          "typeDescription": "Acompanhante"
+        },
+        {
+          "id": "296366",
+          "line": 11,
+          "column": 15,
+          "label": "H 14",
+          "type": "Obese",
+          "status": "Available",
+          "typeDescription": "Obeso"
+        },
+        {
+          "id": "296367",
+          "line": 11,
+          "column": 16,
+          "label": "H 15",
+          "type": "Obese",
+          "status": "Available",
+          "typeDescription": "Obeso"
+        }
+      ]
+    },
+    {
+      "line": 12,
+      "seats": [
+        {
+          "id": "296370",
+          "line": 12,
+          "column": 2,
+          "label": "G 1",
+          "type": "Obese",
+          "status": "Available",
+          "typeDescription": "Obeso"
+        },
+        {
+          "id": "296371",
+          "line": 12,
+          "column": 3,
+          "label": "G 2",
+          "type": "Obese",
+          "status": "Available",
+          "typeDescription": "Obeso"
+        },
+        {
+          "id": "296372",
+          "line": 12,
+          "column": 4,
+          "label": "G 3",
+          "type": "Companion",
+          "status": "Available",
+          "typeDescription": "Acompanhante"
+        },
+        {
+          "id": "296373",
+          "line": 12,
+          "column": 5,
+          "label": "G 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296374",
+          "line": 12,
+          "column": 6,
+          "label": "G 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296375",
+          "line": 12,
+          "column": 7,
+          "label": "G 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296376",
+          "line": 12,
+          "column": 8,
+          "label": "G 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296377",
+          "line": 12,
+          "column": 9,
+          "label": "G 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296378",
+          "line": 12,
+          "column": 10,
+          "label": "G 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296379",
+          "line": 12,
+          "column": 11,
+          "label": "G 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296380",
+          "line": 12,
+          "column": 12,
+          "label": "G 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296381",
+          "line": 12,
+          "column": 13,
+          "label": "G 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296382",
+          "line": 12,
+          "column": 14,
+          "label": "G 13",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296383",
+          "line": 12,
+          "column": 15,
+          "label": "G 14",
+          "type": "Companion",
+          "status": "Available",
+          "typeDescription": "Acompanhante"
+        },
+        {
+          "id": "296384",
+          "line": 12,
+          "column": 16,
+          "label": "G 15",
+          "type": "ReducedMobility",
+          "status": "Available",
+          "typeDescription": "Mobilidade reduzida"
+        }
+      ]
+    },
+    {
+      "line": 13,
+      "seats": [
+        {
+          "id": "296387",
+          "line": 13,
+          "column": 2,
+          "label": "F 1",
+          "type": "ReducedMobility",
+          "status": "Available",
+          "typeDescription": "Mobilidade reduzida"
+        },
+        {
+          "id": "296388",
+          "line": 13,
+          "column": 3,
+          "label": "F 2",
+          "type": "Companion",
+          "status": "Available",
+          "typeDescription": "Acompanhante"
+        },
+        {
+          "id": "296389",
+          "line": 13,
+          "column": 4,
+          "label": "F 3",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296390",
+          "line": 13,
+          "column": 5,
+          "label": "F 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296391",
+          "line": 13,
+          "column": 6,
+          "label": "F 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296392",
+          "line": 13,
+          "column": 7,
+          "label": "F 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296393",
+          "line": 13,
+          "column": 8,
+          "label": "F 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296394",
+          "line": 13,
+          "column": 9,
+          "label": "F 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296395",
+          "line": 13,
+          "column": 10,
+          "label": "F 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296396",
+          "line": 13,
+          "column": 11,
+          "label": "F 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296397",
+          "line": 13,
+          "column": 12,
+          "label": "F 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296398",
+          "line": 13,
+          "column": 13,
+          "label": "F 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296399",
+          "line": 13,
+          "column": 14,
+          "label": "F 13",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296400",
+          "line": 13,
+          "column": 15,
+          "label": "F 14",
+          "type": "Companion",
+          "status": "Available",
+          "typeDescription": "Acompanhante"
+        },
+        {
+          "id": "296401",
+          "line": 13,
+          "column": 16,
+          "label": "F 15",
+          "type": "ReducedMobility",
+          "status": "Available",
+          "typeDescription": "Mobilidade reduzida"
+        }
+      ]
+    },
+    {
+      "line": 14,
+      "seats": [
+        {
+          "id": "296404",
+          "line": 14,
+          "column": 3,
+          "label": "E 1",
+          "type": "Companion",
+          "status": "Available",
+          "typeDescription": "Acompanhante"
+        },
+        {
+          "id": "296405",
+          "line": 14,
+          "column": 4,
+          "label": "E 2",
+          "type": "Disability",
+          "status": "Available",
+          "typeDescription": "Cadeirante"
+        },
+        {
+          "id": "296406",
+          "line": 14,
+          "column": 5,
+          "label": "E 3",
+          "type": "Disability",
+          "status": "Available",
+          "typeDescription": "Cadeirante"
+        },
+        {
+          "id": "296407",
+          "line": 14,
+          "column": 6,
+          "label": "E 4",
+          "type": "Companion",
+          "status": "Available",
+          "typeDescription": "Acompanhante"
+        },
+        {
+          "id": "296408",
+          "line": 14,
+          "column": 7,
+          "label": "E 5",
+          "type": "Companion",
+          "status": "Available",
+          "typeDescription": "Acompanhante"
+        },
+        {
+          "id": "296409",
+          "line": 14,
+          "column": 8,
+          "label": "E 6",
+          "type": "Disability",
+          "status": "Available",
+          "typeDescription": "Cadeirante"
+        },
+        {
+          "id": "296410",
+          "line": 14,
+          "column": 9,
+          "label": "E 7",
+          "type": "Disability",
+          "status": "Available",
+          "typeDescription": "Cadeirante"
+        },
+        {
+          "id": "296411",
+          "line": 14,
+          "column": 10,
+          "label": "E 8",
+          "type": "Companion",
+          "status": "Available",
+          "typeDescription": "Acompanhante"
+        },
+        {
+          "id": "296412",
+          "line": 14,
+          "column": 11,
+          "label": "E 9",
+          "type": "Companion",
+          "status": "Available",
+          "typeDescription": "Acompanhante"
+        },
+        {
+          "id": "296413",
+          "line": 14,
+          "column": 12,
+          "label": "E 10",
+          "type": "Disability",
+          "status": "Available",
+          "typeDescription": "Cadeirante"
+        },
+        {
+          "id": "296414",
+          "line": 14,
+          "column": 13,
+          "label": "E 11",
+          "type": "Disability",
+          "status": "Available",
+          "typeDescription": "Cadeirante"
+        },
+        {
+          "id": "296415",
+          "line": 14,
+          "column": 14,
+          "label": "E 12",
+          "type": "Companion",
+          "status": "Available",
+          "typeDescription": "Acompanhante"
+        }
+      ]
+    },
+    {
+      "line": 16,
+      "seats": [
+        {
+          "id": "296418",
+          "line": 16,
+          "column": 2,
+          "label": "D 1",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296419",
+          "line": 16,
+          "column": 3,
+          "label": "D 2",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296420",
+          "line": 16,
+          "column": 4,
+          "label": "D 3",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296421",
+          "line": 16,
+          "column": 5,
+          "label": "D 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296422",
+          "line": 16,
+          "column": 6,
+          "label": "D 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296423",
+          "line": 16,
+          "column": 7,
+          "label": "D 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296424",
+          "line": 16,
+          "column": 8,
+          "label": "D 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296425",
+          "line": 16,
+          "column": 9,
+          "label": "D 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296426",
+          "line": 16,
+          "column": 10,
+          "label": "D 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296427",
+          "line": 16,
+          "column": 11,
+          "label": "D 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296428",
+          "line": 16,
+          "column": 12,
+          "label": "D 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296429",
+          "line": 16,
+          "column": 13,
+          "label": "D 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296430",
+          "line": 16,
+          "column": 16,
+          "label": "D 13",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296431",
+          "line": 16,
+          "column": 17,
+          "label": "D 14",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296432",
+          "line": 16,
+          "column": 18,
+          "label": "D 15",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296433",
+          "line": 16,
+          "column": 19,
+          "label": "D 16",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        }
+      ]
+    },
+    {
+      "line": 17,
+      "seats": [
+        {
+          "id": "296436",
+          "line": 17,
+          "column": 2,
+          "label": "C 1",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296437",
+          "line": 17,
+          "column": 3,
+          "label": "C 2",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296438",
+          "line": 17,
+          "column": 4,
+          "label": "C 3",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296439",
+          "line": 17,
+          "column": 5,
+          "label": "C 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296440",
+          "line": 17,
+          "column": 6,
+          "label": "C 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296441",
+          "line": 17,
+          "column": 7,
+          "label": "C 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296442",
+          "line": 17,
+          "column": 8,
+          "label": "C 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296443",
+          "line": 17,
+          "column": 9,
+          "label": "C 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296444",
+          "line": 17,
+          "column": 10,
+          "label": "C 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296445",
+          "line": 17,
+          "column": 11,
+          "label": "C 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296446",
+          "line": 17,
+          "column": 12,
+          "label": "C 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296447",
+          "line": 17,
+          "column": 13,
+          "label": "C 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296448",
+          "line": 17,
+          "column": 16,
+          "label": "C 13",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296449",
+          "line": 17,
+          "column": 17,
+          "label": "C 14",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296450",
+          "line": 17,
+          "column": 18,
+          "label": "C 15",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296451",
+          "line": 17,
+          "column": 19,
+          "label": "C 16",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        }
+      ]
+    },
+    {
+      "line": 18,
+      "seats": [
+        {
+          "id": "296454",
+          "line": 18,
+          "column": 2,
+          "label": "B 1",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296455",
+          "line": 18,
+          "column": 3,
+          "label": "B 2",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296456",
+          "line": 18,
+          "column": 4,
+          "label": "B 3",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296457",
+          "line": 18,
+          "column": 5,
+          "label": "B 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296458",
+          "line": 18,
+          "column": 6,
+          "label": "B 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296459",
+          "line": 18,
+          "column": 7,
+          "label": "B 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296460",
+          "line": 18,
+          "column": 8,
+          "label": "B 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296461",
+          "line": 18,
+          "column": 9,
+          "label": "B 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296462",
+          "line": 18,
+          "column": 10,
+          "label": "B 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296463",
+          "line": 18,
+          "column": 11,
+          "label": "B 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296464",
+          "line": 18,
+          "column": 12,
+          "label": "B 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296465",
+          "line": 18,
+          "column": 13,
+          "label": "B 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296466",
+          "line": 18,
+          "column": 16,
+          "label": "B 13",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296467",
+          "line": 18,
+          "column": 17,
+          "label": "B 14",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296468",
+          "line": 18,
+          "column": 18,
+          "label": "B 15",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296469",
+          "line": 18,
+          "column": 19,
+          "label": "B 16",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        }
+      ]
+    },
+    {
+      "line": 19,
+      "seats": [
+        {
+          "id": "296472",
+          "line": 19,
+          "column": 2,
+          "label": "A 1",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296473",
+          "line": 19,
+          "column": 3,
+          "label": "A 2",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296474",
+          "line": 19,
+          "column": 4,
+          "label": "A 3",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296475",
+          "line": 19,
+          "column": 5,
+          "label": "A 4",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296476",
+          "line": 19,
+          "column": 6,
+          "label": "A 5",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296477",
+          "line": 19,
+          "column": 7,
+          "label": "A 6",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296478",
+          "line": 19,
+          "column": 8,
+          "label": "A 7",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296479",
+          "line": 19,
+          "column": 9,
+          "label": "A 8",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296480",
+          "line": 19,
+          "column": 10,
+          "label": "A 9",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296481",
+          "line": 19,
+          "column": 11,
+          "label": "A 10",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296482",
+          "line": 19,
+          "column": 12,
+          "label": "A 11",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296483",
+          "line": 19,
+          "column": 13,
+          "label": "A 12",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296484",
+          "line": 19,
+          "column": 16,
+          "label": "A 13",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296485",
+          "line": 19,
+          "column": 17,
+          "label": "A 14",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296486",
+          "line": 19,
+          "column": 18,
+          "label": "A 15",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        },
+        {
+          "id": "296487",
+          "line": 19,
+          "column": 19,
+          "label": "A 16",
+          "type": "Regular",
+          "status": "Available",
+          "typeDescription": "Normal"
+        }
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "label": "Q",
+      "line": 1,
+      "column": 0
+    },
+    {
+      "label": "Q",
+      "line": 1,
+      "column": 21
+    },
+    {
+      "label": "P",
+      "line": 2,
+      "column": 0
+    },
+    {
+      "label": "P",
+      "line": 2,
+      "column": 21
+    },
+    {
+      "label": "O",
+      "line": 3,
+      "column": 0
+    },
+    {
+      "label": "O",
+      "line": 3,
+      "column": 21
+    },
+    {
+      "label": "N",
+      "line": 4,
+      "column": 0
+    },
+    {
+      "label": "N",
+      "line": 4,
+      "column": 21
+    },
+    {
+      "label": "M",
+      "line": 5,
+      "column": 0
+    },
+    {
+      "label": "M",
+      "line": 5,
+      "column": 21
+    },
+    {
+      "label": "L",
+      "line": 6,
+      "column": 0
+    },
+    {
+      "label": "L",
+      "line": 6,
+      "column": 21
+    },
+    {
+      "label": "K",
+      "line": 7,
+      "column": 0
+    },
+    {
+      "label": "K",
+      "line": 7,
+      "column": 21
+    },
+    {
+      "label": "J",
+      "line": 9,
+      "column": 0
+    },
+    {
+      "label": "J",
+      "line": 9,
+      "column": 21
+    },
+    {
+      "label": "I",
+      "line": 10,
+      "column": 0
+    },
+    {
+      "label": "I",
+      "line": 10,
+      "column": 21
+    },
+    {
+      "label": "H",
+      "line": 11,
+      "column": 0
+    },
+    {
+      "label": "H",
+      "line": 11,
+      "column": 21
+    },
+    {
+      "label": "G",
+      "line": 12,
+      "column": 0
+    },
+    {
+      "label": "G",
+      "line": 12,
+      "column": 21
+    },
+    {
+      "label": "F",
+      "line": 13,
+      "column": 0
+    },
+    {
+      "label": "F",
+      "line": 13,
+      "column": 21
+    },
+    {
+      "label": "E",
+      "line": 14,
+      "column": 0
+    },
+    {
+      "label": "E",
+      "line": 14,
+      "column": 21
+    },
+    {
+      "label": "D",
+      "line": 16,
+      "column": 0
+    },
+    {
+      "label": "D",
+      "line": 16,
+      "column": 21
+    },
+    {
+      "label": "C",
+      "line": 17,
+      "column": 0
+    },
+    {
+      "label": "C",
+      "line": 17,
+      "column": 21
+    },
+    {
+      "label": "B",
+      "line": 18,
+      "column": 0
+    },
+    {
+      "label": "B",
+      "line": 18,
+      "column": 21
+    },
+    {
+      "label": "A",
+      "line": 19,
+      "column": 0
+    },
+    {
+      "label": "A",
+      "line": 19,
+      "column": 21
+    }
+  ],
+  "bounds": {
+    "lines": 22,
+    "columns": 22
+  },
+  "stage": {
+    "upperLeft": {
+      "line": 21,
+      "column": 0
+    },
+    "lowerRight": {
+      "line": 21,
+      "column": 21
+    }
+  }
+}
